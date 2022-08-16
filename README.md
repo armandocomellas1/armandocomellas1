@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @armandocomellas1
-I love technology and I have the best Workstation that could exist 😊  for example an AMD Ryzen 9 3900X processor and an NVIDIA  Quadro  P20'' graphics card, 32 GM  Ram and a solid disk type m.2.
-The truth is I concentrate very well at home and work under pressure, and I love learning new things, now I am learning node.js and react.js on virtual platforms such as Udemy, pirple etc.
-Personally, I like to practice sport especially capoeira is a Brazilian martial art, thanks to the pandemic, the transfer time I use to relax my body and mind in this way, I also love video games.
+Hello, my name is Armando, and l am a software developer that applies the last and best practices with the new and most common use technologies, in my previous work l worked for 3 years in a NetSuite solution ERP provider which means that l have worked a lot wit javascript to manipulate the data and get reports just like the customer wanted to, my personal goal is to become one of the best software devs in Latin America.
 ...
 
 <!---
