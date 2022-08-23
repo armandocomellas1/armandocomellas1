@@ -161,7 +161,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1&theme=dark&show_icons=true)
 
 ## Commit Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1&theme=dark&show_icons=true)
 
 (https://git.io/streak-stats)
 
