@@ -6,6 +6,7 @@
 
 ...
 
+## Link to portfolio https://github.com/armandocomellas1/armandocomellas1
 ## Important! currently available for hire or open to new job opportunities
 
 <!---
