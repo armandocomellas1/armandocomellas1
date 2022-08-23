@@ -20,7 +20,7 @@
 
 <br />
 <h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/Efiamotu-1/count.svg" />
+<img src="https://profile-counter.glitch.me/armandocomellas1/count.svg" />
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
@@ -158,26 +158,26 @@
 
   <p align="center">
    <a href="https://github.com/Efiamotu-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Efiamotu-1&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efiamotu-1&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandocomellas1&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
 </p>
 </h3>
 
 ## Commit Streak
-[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=Efiamotu-1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
 
 <details>
 	<summary><b>🧲 GitHub Graph</b></summary>
-	<img src="https://activity-graph.herokuapp.com/graph?username=Efiamotu-1&theme=minimal" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=armandocomellas1&theme=minimal" />
 </details>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Ask me anything here
 or email me 
-http://musahabeebefy12@gmail.com
+http://businesswitharmando@gmail.com
 
-⭐️ From [EFIAMOTU](https://github.com/Efiamotu-1)
+⭐️ From [ARMANDO](https://github.com/armandocomellas1)
 
 ## Happy Coding! 😊
 
