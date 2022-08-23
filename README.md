@@ -166,6 +166,7 @@
 
 ## Commit Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1)](https://git.io/streak-stats)
+
 (https://git.io/streak-stats)
 
 <details>
