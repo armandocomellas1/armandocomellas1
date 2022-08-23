@@ -156,6 +156,7 @@
 
 # Github's Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
 
 ## Commit Streak
