@@ -4,8 +4,6 @@
 
 - I have a personal quote it says: “I expect to return the same value as the same value l will give to the company” so l know that adding a point of aggregation value is important for any company or organization because everything is about cost-benefit. 
 
-...
-
 ## Link to portfolio https://github.com/armandocomellas1/armandocomellas1
 ## Important! currently available for hire or open to new job opportunities
 
