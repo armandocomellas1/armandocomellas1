@@ -4,13 +4,12 @@
 <!-- <p align="center"><a href=""><img src="https://user-images.githubusercontent.com/93039359/178105049-35adc21b-9e3b-4ab6-a490-290cffbd5d01.jpeg" height="250" width="900"></a></p> -->
 
 
-
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there 👋
-### **I'm Armnado Gabriel Comellas Montalvo**
+### **I'm Armando Gabriel Comellas Montalvo**
 #### I'm a Full-stack Software Developer in the Making
 
-- 🌱 I’m currently available for hire and open to new job opportunities, send me a mail musahabeebefy10@gmail.com
+- 🌱 I’m currently available for hire and open to new job opportunities, send me a mail to businesswitharmando@gmail.com
 - 🌱 I’m currently working as a front-end developer at **Qolom Company** 
 - 🌱 I’m currently learning at **Microverse** 
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
@@ -188,11 +187,7 @@ http://musahabeebefy12@gmail.com
 
 </div>
 
-
-
-
 ## Link to portfolio https://github.com/armandocomellas1/armandocomellas1
-## Important! Currently available for hire or open to new job opportunities
 
 <!---
 armandocomellas1/armandocomellas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
