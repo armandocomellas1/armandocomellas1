@@ -10,13 +10,13 @@
 #### I'm a Full-stack Software Developer in the Making
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail to businesswitharmando@gmail.com
-- 🌱 I’m currently working as a front-end developer at **Qolom Company** 
-- 🌱 I’m currently learning at **Microverse** 
+- 🌱 Last recent previous work in **Netsuite Oracle** 
+- 🌱 I’m currently learning at **Microverse Bootcamp School** 
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
-- 🌱 I’m currently learning `HTML` `CSS` `JavaScript` `React` `Redux`
+- 🌱 I’m currently learning `HTML5` `CSS` `JavaScript` `Bootstrap`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 Don't be shy to say Hi
-- ⚡ Fun fact: I Love watching series.
+- ⚡ Fun fact: I Love Games.
 
 <br />
 <h3> 👱 Visitors count </h3>
@@ -146,7 +146,7 @@
 <h3>Reach me</h3>
 
 <p>
-  <a href="mailto:musahabeebefy10@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:businesswitharmando@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
