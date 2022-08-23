@@ -155,8 +155,12 @@
 <br><br>
 
 # Github's Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
+</div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
+</div>
 
 ## Commit Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1)](https://git.io/streak-stats)
