@@ -155,14 +155,7 @@
 <br><br>
 
 # Github's Status
-
-  <p align="left">
-   <a href="https://github.com/armandocomellas1">
-    <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1)]						(https://github.com/armandocomellas1/github-readme-stats)"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
-  </a>
-</p>
-</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
 
 ## Commit Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1)](https://git.io/streak-stats)
