@@ -155,7 +155,7 @@
 <br><br>
 
 # Github's Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armandocomellas1&theme=dark&show_icons=true)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1)](https://github.com/armandocomellas1/github-readme-stats)
 
