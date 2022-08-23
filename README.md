@@ -157,7 +157,7 @@
 # Github's Status
 
   <p align="center">
-   <a href="https://github.com/Efiamotu-1">
+   <a href="https://github.com/armandocomellas1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandocomellas1&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandocomellas1&show_icons=true&theme=midnight-white&layout=compact" alt="shoira" />
   </a>
@@ -165,7 +165,8 @@
 </h3>
 
 ## Commit Streak
-[![Habeeb's GitHub commit streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1&theme=tokyonight&fire=FFA500&ring=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armandocomellas1)](https://git.io/streak-stats)
+(https://git.io/streak-stats)
 
 <details>
 	<summary><b>🧲 GitHub Graph</b></summary>
