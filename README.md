@@ -7,13 +7,13 @@
 <!-- # 𝐇𝐞𝐥𝐥𝐨 World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  -->
 ### Hi there 👋
 ### **I'm Armando Gabriel Comellas Montalvo**
-#### I'm a Full-stack Software Developer in the Making
+#### I'm a Full-stack Software Developer
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail to businesswitharmando@gmail.com
-- 🌱 Last recent previous work in **Netsuite Oracle** 
-- 🌱 I’m currently learning at **Microverse Bootcamp School** 
+- 🌱 Last recent previous work in **Netsuite Oracle**
+- 🌱 Last recent projects as a freelancer in UpWork online jobs appliaction
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
-- 🌱 I’m currently learning `HTML5` `CSS` `JavaScript` `Bootstrap`
+- 🌱 I´m currently working with `HTML5` `CSS` `JavaScript` `Bootstrap` `SASS`
 - 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I Love Games.
