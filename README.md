@@ -70,6 +70,7 @@
       <img src="https://img.shields.io/badge/NodeJS-Node-yellowgree)" alt="ruby"/> 
   </a>
 </p>
+
 <h3>Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
@@ -89,12 +90,13 @@
   </a>
 </p>
 <p>
+	
 <h3>Cloud & Hosting:</h3>
 <p>
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
-  <!-- <a href="https://heroku.com" target="_blank"> 
+  <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a>
