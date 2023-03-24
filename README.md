@@ -14,7 +14,8 @@
 - 🌱 Last recent projects as a freelancer in UpWork online jobs appliaction
 - 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
 - 🌱 I´m currently working with `HTML5` `CSS` `JavaScript` `Bootstrap` `SASS`
-- 👯 I’m looking to collaborate on JavaScript, React and Redux projects.
+- 🌱 I´m currently working with `MYSQK` `SQL` `PostgreSQL`
+- 👯 I’m looking to collaborate on JavaScript, React and Redux projects and Databases
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I Love Games.
 
