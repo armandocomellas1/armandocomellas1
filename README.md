@@ -70,7 +70,7 @@
       <img src="https://img.shields.io/badge/NodeJS-Node-yellowgree)" alt="ruby"/> 
   </a>
 </p>
-<!-- <h3>Database</h3>
+<h3>Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
@@ -97,7 +97,7 @@
   <!-- <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
-  </a>  -->
+  </a>
 </p>
 <p>
 <h3>Version Control & CI/CD</h3>
