@@ -10,12 +10,11 @@
 #### I'm a Full-stack Software Developer
 
 - 🌱 I’m currently available for hire and open to new job opportunities, send me a mail to businesswitharmando@gmail.com
-- 🌱 Last recent previous work in **Netsuite Oracle**
-- 🌱 Last recent projects as a freelancer in UpWork online jobs appliaction
-- 🔭 I’m currently working with JavaScript Frameworks such as **React & Redux** 
+- 🌱 Last recent previous work in **Google Inc** mainly GCP and backstage open source projects
+- 🔭 I’m currently working with JavaScript Frameworks such as **React & NextJS** 
 - 🌱 I´m currently working with `HTML5` `CSS` `JavaScript` `Bootstrap` `SASS`
 - 🌱 I´m currently working with `MYSQK` `SQL` `PostgreSQL`
-- 👯 I’m looking to collaborate on JavaScript, React and Redux projects and Databases
+- 👯 I’m looking to collaborate on JavaScript, React, NextJS, web3 applications and more.
 - 🌱 Don't be shy to say Hi
 - ⚡ Fun fact: I Love Games.
 
